@@ -4,6 +4,7 @@
 <h3 align="center">Student at Microverse🌟<img align="center"
       src="https://media-exp1.licdn.com/dms/image/C560BAQHr8P7gQ95yCQ/company-logo_100_100/0/1578673850004?e=1652918400&v=beta&t=RXH0ssSZr97PvQaT2jIxUMIaJkUaz8y790PmEicZ6WA"
       alt="adam pithewan" height="30" width="40" /></a>.</h3>
+ <p align="center">I am currently learning fullstack web development with Microverse and enjoying it, I have experience in front-end Dev and I would like to contribute to open-source projects and new challenges</p>
 
 <br>
 
@@ -17,7 +18,8 @@
 
 
 - 🌱 I’m currently learning Web Development and other programming languages
-
+- 👀 I’m interested in Learning new things in the Tech-world
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me **joelkalema63@gmail.com**
 
 <br>
