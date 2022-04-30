@@ -17,8 +17,8 @@
 
 
 - 🌱 I’m currently learning Web Development and other programming languages.
-- 👀 I’m interested in Learning new things in the Tech-world
-- 💞️ I’m looking to collaborate on open source projects
+- 👀 I’m interested in Learning new things in the Tech-world.
+- 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me **joelkalema63@gmail.com**
 
 <br>
