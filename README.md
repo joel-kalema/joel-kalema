@@ -2,7 +2,7 @@
 
 <h1 align="center">I'm Joel kalema</h1>
 <h2 align="center">Software Develope🌟</h2>
-<p align="center"><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="joel-kalema" width="400"/></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="joel-kalema" width="400"/></p>
 
 <br>
 
