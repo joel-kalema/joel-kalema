@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1>I'm Joel kalema</h1>
-<h2>Full-stack developer🌟</h2>
+<h2>Software Develope🌟</h2>
 
 <br>
 
