@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1 align="center">I'm Joel kalema</h1>
+<h1 align="center">I'm Joel KALEMA</h1>
 <h2 align="center">Software Develope🌟</h2>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="joel-kalema" width="400"/></p>
 
