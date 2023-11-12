@@ -1,4 +1,29 @@
-<h2> Hello < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2>
+# Hi All 👋
+
+## I am Joel Kalema 
+
+> Software engineer with experience building enterprise-level applications using JavaScript / Typescript technologies. Passionate about writing and sharing knowledge. Loves art and music.
+
+- 🎓 &nbsp; Software Engineer
+- 👀 &nbsp; I build functional and human-centered solutions for the web
+  
+<h3>🛠 Tech Stack</h3>
+
+- 💻 &nbsp; JS | TS | Java | Ruby 
+- 🌐 &nbsp; HTML | CSS | TailwindCSS | SCSS 
+- 🛢 &nbsp; MySQL | MongoDB | PostgeSQL
+- 🔧 &nbsp; Git | GitHub | GitFlow | Jira | Agile | Docker | Npm |
+
+<h3> Let's connect </h3>
+
+<p align="left">
+<a href="https://linkedin.com/in/pacifique-linjanja/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pacifiquelinjanja-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:pacilinja2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pacilinja2@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
+</p>
+
+
+
+<!-- <h2> Hello < Developers />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h2>
 <p align='center'>
 </p>
 
@@ -73,7 +98,7 @@
 </a>
 </p>
 
-<p><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joel-kalema&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="joel-kalema" /></p>
+<p><img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=joel-kalema&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="joel-kalema" /></p> -->
 
 <!-- <br>
 <h3>Trophies :-</h3>
