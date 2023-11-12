@@ -14,6 +14,10 @@
 - 🛢 &nbsp; MySQL | MongoDB | PostgeSQL
 - 🔧 &nbsp; Git | GitHub | GitFlow | Jira | Agile | Docker | Npm |
 
+<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=joel-kalema&label=Profile%20views&color=0e75b6&style=flat"
+    alt="joel-kalema" /> 
+</p>
+
 <h3> Let's connect </h3>
 
 <p align="left">
