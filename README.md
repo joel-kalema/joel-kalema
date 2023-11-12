@@ -17,8 +17,8 @@
 <h3> Let's connect </h3>
 
 <p align="left">
-<a href="https://linkedin.com/in/pacifique-linjanja/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-pacifiquelinjanja-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:pacilinja2@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-pacilinja2@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
+<a href="https://www.linkedin.com/in/joel-kalema/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-joel kalema-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:joelkalema63@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-joelkalema63@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
 </p>
 
 
