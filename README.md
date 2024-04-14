@@ -9,7 +9,7 @@
   
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JS | TS | Java | Ruby 
+- 💻 &nbsp; JS | TS | Ruby 
 - 🌐 &nbsp; HTML | CSS | TailwindCSS | SCSS 
 - 🛢 &nbsp; MySQL | MongoDB | PostgeSQL
 - 🔧 &nbsp; Git | GitHub | GitFlow | Jira | Agile | Docker | Npm |
