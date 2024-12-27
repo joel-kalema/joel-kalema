@@ -2,28 +2,21 @@
 
 ## I am Joel Kalema 
 
-> Software engineer with experience building enterprise-level applications using JavaScript / Typescript technologies. Passionate about writing and sharing knowledge. Loves art and music.
+> Software engineer specializing in building enterprise-level applications using JavaScript and TypeScript technologies. Passionate about creating functional, human-centered solutions for the web, writing and sharing knowledge, and exploring art and music.
 
-- 🎓 &nbsp; Software Engineer
-- 👀 &nbsp; I build functional and human-centered solutions for the web
+- 🎓  &nbsp; Software Engineer
+- 👀  &nbsp; I develop scalable and user-friendly web and mobile solutions
+- 🌱  &nbsp; Constantly learning and experimenting with AI-powered tools and modern frameworks
   
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; JS | TS | Ruby 
-- 🌐 &nbsp; HTML | CSS | TailwindCSS | SCSS 
-- 🛢 &nbsp; MySQL | MongoDB | PostgeSQL
-- 🔧 &nbsp; Git | GitHub | GitFlow | Jira | Agile | Docker | Npm |
+- 💻 Languages: JavaScript (JS) | TypeScript (TS) | Ruby
+- 🌐 Frontend: HTML | CSS | TailwindCSS | SCSS | React | Next.js | React Native
+- 🛢 Databases: MySQL | MongoDB | PostgreSQL | Firebase
+- 🔧 Tools & Practices: Git | GitHub | GitFlow | Docker | Jira | Agile Methodologies | NPM | TDD | AWS
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=joel-kalema&label=Profile%20views&color=0e75b6&style=flat"
-    alt="joel-kalema" /> 
-</p>
-
-<h3> Let's connect </h3>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/joel-kalema/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-joel kalema-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:joelkalema63@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-joelkalema63@gmail.com-blue?style=flat-square&logo=Microsoft%20outlook"></a>
-</p>
+🔗 Let's Connect
+<p align="left"> <a href="https://www.linkedin.com/in/joel-kalema/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Joel%20Kalema-blue?style=flat-square&logo=linkedin"></a> <a href="mailto:joelkalema63@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-joelkalema63@gmail.com-blue?style=flat-square&logo=gmail"></a> <a href="https://github.com/joel-kalema"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Joel%20Kalema-black?style=flat-square&logo=github"></a> </p> <p align="right"> <h3>👁️ Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=joel-kalema&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
 
 
