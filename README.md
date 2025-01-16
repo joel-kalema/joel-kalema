@@ -15,6 +15,15 @@
 - 🛢 Databases: MySQL | MongoDB | PostgreSQL | Firebase
 - 🔧 Tools & Practices: Git | GitHub | GitFlow | Docker | Jira | Agile Methodologies | NPM | TDD | AWS
 
+### Certificates & Licenses 🥇
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/9ff1c1c4-b288-4851-a8aa-41789ae574ce" target="blank"><img src="./certificate.png" width="80"></a> 
+   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/52f231f6-6e05-4d3b-9dc2-1ab2a6e79f0c#gs.39dv5d" target="blank"><img src="https://templates.images.credential.net/15959755104909798720520579501098.png" width="80"></a> 
+     &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/e7a66d25-da05-47dd-ba42-a89ce9d6c5a7#gs.4kfxvi" target="blank"><img src="https://templates.images.credential.net/15790419775515809487933217124360.png" width="80"></a> 
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/fa8a6cc9-2a48-4e34-9626-29e30d2a16a3#gs.a1jt1x" target="blank"><img src="https://templates.images.credential.net/15790420075846753839720457960174.png" width="80"></a>
+   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/8a65028d-e9e7-4cc4-99f8-f54137a39c3e#gs.f897sh" target="blank"><img src="https://templates.images.credential.net/15790421063942253832023806501758.png" width="80"></a>
+</p>
+
 🔗 Let's Connect
 <p align="left"> <a href="https://www.linkedin.com/in/joel-kalema/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Joel%20Kalema-blue?style=flat-square&logo=linkedin"></a> <a href="mailto:joelkalema63@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-joelkalema63@gmail.com-blue?style=flat-square&logo=gmail"></a> <a href="https://github.com/joel-kalema"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Joel%20Kalema-black?style=flat-square&logo=github"></a> </p> <p align="right"> <h3>👁️ Profile Views:</h3> <img src="https://komarev.com/ghpvc/?username=joel-kalema&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
 
