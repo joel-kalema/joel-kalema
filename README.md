@@ -17,10 +17,10 @@
 
 ### Certificates & Licenses 🥇
 <p align="left">
-   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/52f231f6-6e05-4d3b-9dc2-1ab2a6e79f0c#gs.39dv5d" target="blank"><img src="https://templates.images.credential.net/15959755104909798720520579501098.png" width="80"></a> 
-     &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/e7a66d25-da05-47dd-ba42-a89ce9d6c5a7#gs.4kfxvi" target="blank"><img src="https://templates.images.credential.net/15790419775515809487933217124360.png" width="80"></a> 
-  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/fa8a6cc9-2a48-4e34-9626-29e30d2a16a3#gs.a1jt1x" target="blank"><img src="https://templates.images.credential.net/15790420075846753839720457960174.png" width="80"></a>
-   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/8a65028d-e9e7-4cc4-99f8-f54137a39c3e#gs.f897sh" target="blank"><img src="https://templates.images.credential.net/15790421063942253832023806501758.png" width="80"></a>
+   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/06af603e-eb7c-4c30-a2ca-6053db70a618#acc.bWLudxjG" target="blank"><img src="https://templates.images.credential.net/15959755104909798720520579501098.png" width="80"></a> 
+     &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/ea448c4b-cca0-487e-ba66-9f6facbffeee#acc.Vl4i2T95" target="blank"><img src="https://templates.images.credential.net/15790419775515809487933217124360.png" width="80"></a> 
+  &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/cb2f13d3-e40c-456b-bf94-815fe2a75f73#acc.bhsqNWoe" target="blank"><img src="https://templates.images.credential.net/15790420075846753839720457960174.png" width="80"></a>
+   &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://www.credential.net/4db9c0a0-17df-4f1e-a5a0-b8602a741193#acc.CKQ7MYvq" target="blank"><img src="https://templates.images.credential.net/15790421063942253832023806501758.png" width="80"></a>
 </p>
 
 🔗 Let's Connect
